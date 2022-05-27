@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\Test-IDS\bin\Debug\Test-IDS.exe.config
+C:\Users\USUARIO\source\repos\Test-IDS\bin\Debug\Test-IDS.exe
+C:\Users\USUARIO\source\repos\Test-IDS\bin\Debug\Test-IDS.pdb
+C:\Users\USUARIO\source\repos\Test-IDS\obj\Debug\Test-IDS.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Test-IDS\obj\Debug\Test-IDS.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\Test-IDS\obj\Debug\Test_IDS.Form1.resources
+C:\Users\USUARIO\source\repos\Test-IDS\obj\Debug\Test_IDS.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Test-IDS\obj\Debug\Test-IDS.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Test-IDS\obj\Debug\Test-IDS.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Test-IDS\obj\Debug\Test-IDS.exe
+C:\Users\USUARIO\source\repos\Test-IDS\obj\Debug\Test-IDS.pdb
